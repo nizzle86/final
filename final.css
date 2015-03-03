@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  color: #696576;
+}
+ 
+body {
+  background-color: #718EA4;
+}
+
+.style {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  color: white;
+  border-width: 2px;
+  width: 300px;
+  height: 500px;
+  display: inline-table;
+  margin: auto;
+}
+
+li{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button{
+  display: inline-block;
+  margin-right: 1em;
+}
+
+#buttons{
+  width: 40%;
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #718EA4;
+  text-align: center;
+}
